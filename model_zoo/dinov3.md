@@ -67,7 +67,7 @@
 <td align="center">512×512</td>
 <td align="center">137 / 200</td>
 <td align="center">59.5</td>
-<td align="center"><a href="https://huggingface.co/tue-mps/ade20k_semantic_eomt_large_512_dinov3/resolve/main/pytorch_model.bin">Model Weights</a></td>
+<td align="center"><a href="https://huggingface.co/tue-mps/ade_semantic_eomt_large_512_dinov3/resolve/main/pytorch_model.bin">Model Weights</a></td>
 </tr>
 </tbody></table>
 
